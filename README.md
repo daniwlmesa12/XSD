@@ -143,10 +143,3 @@ Screenshots of correct compiling
 https://github.com/daniwlmesa12/XSD/blob/main/SC1.png
 https://github.com/daniwlmesa12/XSD/blob/main/SC2.png
 
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details
-
-Acknowledgments
-Hat tip to anyone whose code was used
-Inspiration
-etc
